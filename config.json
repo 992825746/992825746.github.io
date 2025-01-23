@@ -1,6 +1,9 @@
 {
     "title":"学习，为了拥抱更好的明天",
     "subTitle":"知行合一致良知，德法兼修事上练",
-    "avatarUrl":"https://github.com/Meekdai/meekdai.github.io/blob/main/static/avatar.svg",
+    "avatarUrl":"https://blog.meekdai.com/avatar.svg",
+    "faviconUrl":"https://blog.meekdai.com/favicon.svg",
+    "i18n":"CN",
+    "bottomText":"转载文章请注明出处，谢谢！",
     "GMEEK_VERSION":"last"
 }
