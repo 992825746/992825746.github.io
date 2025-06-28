@@ -2,5 +2,12 @@
     "title":"学习，为了拥抱更好的明天",
     "subTitle":"知行合一致良知 德法兼修事上练",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"meekdai@163.com",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b96",
+    "yearColorList":["#bc83e6", "#7575cf", "#6498d9", "#91a7ff", "#f0b27a"],
+    "i18n":"CN",
+    "UTC":8,
+    "bottomText":"转载请注明出处"
 }
